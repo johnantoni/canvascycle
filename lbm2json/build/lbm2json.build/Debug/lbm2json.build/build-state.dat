@@ -1,0 +1,317 @@
+Tlbm2json
+v7
+r0
+t301165027.654550
+cCheck dependencies
+cCompileC build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/main.o /Users/jhuckaby/Projects/lbm2json/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/palette.o /Users/jhuckaby/Projects/lbm2json/palette.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/sprite.o /Users/jhuckaby/Projects/lbm2json/sprite.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/bitmap.o /Users/jhuckaby/Projects/lbm2json/bitmap.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/geometry.o /Users/jhuckaby/Projects/lbm2json/geometry.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cLd /Users/jhuckaby/Projects/lbm2json/build/Debug/lbm2json normal i386
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004AC320BA00000000000004F1
+t1254301882
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC326060000000000004174
+t1254303238
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004AC326060000000000002DF5
+t1254303238
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004AC326060000000000001731
+t1254303238
+s5937
+
+N/Users/jhuckaby/Projects/lbm2json/bitmap.cpp
+c000000004C424D2B0000000000000622
+t1279413547
+s1570
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"geometry.h"
+i"palette.h"
+i"bitmap.h"
+
+N/Users/jhuckaby/Projects/lbm2json/bitmap.h
+c000000004C424C7B00000000000002AD
+t1279413371
+s685
+
+N/Users/jhuckaby/Projects/lbm2json/build/Debug/lbm2json
+t1279472227
+s38944
+
+N/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/bitmap.o
+t1279414926
+s10648
+
+N/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/geometry.o
+t1279414926
+s13804
+
+N/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/lbm2json.LinkFileList
+c000000004C42528E000000000000020E
+t1279414926
+s526
+
+N/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/main.o
+t1279466189
+s53408
+
+N/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/palette.o
+t1279414926
+s19008
+
+N/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/sprite.o
+t1279472221
+s20980
+
+N/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/bitmap.o
+t1279413548
+s11948
+
+N/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/geometry.o
+t1279413506
+s17216
+
+N/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/lbm2json.LinkFileList
+c000000004C424D010000000000000218
+t1279413505
+s536
+
+N/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/main.o
+t1279414840
+s50564
+
+N/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/palette.o
+t1279413528
+s22484
+
+N/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/sprite.o
+t1279414624
+s23112
+
+N/Users/jhuckaby/Projects/lbm2json/geometry.cpp
+c000000003C12AF480000000000001001
+t1007857480
+s4097
+i"geometry.h"
+
+N/Users/jhuckaby/Projects/lbm2json/geometry.h
+c000000003C12AF780000000000000431
+t1007857528
+s1073
+
+N/Users/jhuckaby/Projects/lbm2json/main.cpp
+c000000004C431ACD0000000000000B0D
+t1279466189
+s2829
+i<iostream>
+i"geometry.h"
+i"palette.h"
+i"bitmap.h"
+i"sprite.h"
+
+N/Users/jhuckaby/Projects/lbm2json/palette.cpp
+c000000004C424AFE000000000000251C
+t1279412990
+s9500
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"palette.h"
+
+N/Users/jhuckaby/Projects/lbm2json/palette.h
+c000000004C424D1600000000000007B1
+t1279413526
+s1969
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/jhuckaby/Projects/lbm2json/sprite.cpp
+c000000004C43325D0000000000002586
+t1279472221
+s9606
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"geometry.h"
+i"palette.h"
+i"bitmap.h"
+i"sprite.h"
+
+N/Users/jhuckaby/Projects/lbm2json/sprite.h
+c000000004C424DE7000000000000087D
+t1279413735
+s2173
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301165027#301165027#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/bitmap.o /Users/jhuckaby/Projects/lbm2json/bitmap.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s301107726.453646
+e301107726.572719
+r1
+xCompileC
+xbuild/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/bitmap.o
+x/Users/jhuckaby/Projects/lbm2json/bitmap.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/jhuckaby/Projects/lbm2json/bitmap.cpp301107726#301107726#0(0"0(0#0#44"/Users/jhuckaby/Projects/lbm2json/bitmap.cpp4300911832#1252"    cd /Users/jhuckaby/Projects/lbm2json    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-generated-files.hmap -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-own-target-headers.hmap -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-all-target-headers.hmap -iquote /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-project-headers.hmap -F/Users/jhuckaby/Projects/lbm2json/build/Debug -I/Users/jhuckaby/Projects/lbm2json/build/Debug/include -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/DerivedSources/i386 -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/DerivedSources -c /Users/jhuckaby/Projects/lbm2json/bitmap.cpp -o /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/bitmap.o0#
+
+CCompileC build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/geometry.o /Users/jhuckaby/Projects/lbm2json/geometry.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s301107726.572810
+e301107726.624084
+r1
+xCompileC
+xbuild/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/geometry.o
+x/Users/jhuckaby/Projects/lbm2json/geometry.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/jhuckaby/Projects/lbm2json/geometry.cpp301107726#301107726#0(0"0(0#0#46"/Users/jhuckaby/Projects/lbm2json/geometry.cpp4300911832#1256"    cd /Users/jhuckaby/Projects/lbm2json    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-generated-files.hmap -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-own-target-headers.hmap -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-all-target-headers.hmap -iquote /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-project-headers.hmap -F/Users/jhuckaby/Projects/lbm2json/build/Debug -I/Users/jhuckaby/Projects/lbm2json/build/Debug/include -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/DerivedSources/i386 -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/DerivedSources -c /Users/jhuckaby/Projects/lbm2json/geometry.cpp -o /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/geometry.o0#
+
+CCompileC build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/main.o /Users/jhuckaby/Projects/lbm2json/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s301159010.018988
+e301159010.019966
+r1
+xCompileC
+xbuild/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/main.o
+x/Users/jhuckaby/Projects/lbm2json/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/jhuckaby/Projects/lbm2json/main.cpp301159010#301159010#0(0"0(0#0#42"/Users/jhuckaby/Projects/lbm2json/main.cpp4300911832#1248"    cd /Users/jhuckaby/Projects/lbm2json    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-generated-files.hmap -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-own-target-headers.hmap -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-all-target-headers.hmap -iquote /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-project-headers.hmap -F/Users/jhuckaby/Projects/lbm2json/build/Debug -I/Users/jhuckaby/Projects/lbm2json/build/Debug/include -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/DerivedSources/i386 -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/DerivedSources -c /Users/jhuckaby/Projects/lbm2json/main.cpp -o /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/main.o0#
+
+CCompileC build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/palette.o /Users/jhuckaby/Projects/lbm2json/palette.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s301107726.129793
+e301107726.356695
+r1
+xCompileC
+xbuild/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/palette.o
+x/Users/jhuckaby/Projects/lbm2json/palette.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/jhuckaby/Projects/lbm2json/palette.cpp301107726#301107726#0(0"0(0#0#45"/Users/jhuckaby/Projects/lbm2json/palette.cpp4300911832#1254"    cd /Users/jhuckaby/Projects/lbm2json    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-generated-files.hmap -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-own-target-headers.hmap -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-all-target-headers.hmap -iquote /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-project-headers.hmap -F/Users/jhuckaby/Projects/lbm2json/build/Debug -I/Users/jhuckaby/Projects/lbm2json/build/Debug/include -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/DerivedSources/i386 -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/DerivedSources -c /Users/jhuckaby/Projects/lbm2json/palette.cpp -o /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/palette.o0#
+
+CCompileC build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/sprite.o /Users/jhuckaby/Projects/lbm2json/sprite.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s301165027.447149
+e301165027.448750
+r1
+xCompileC
+xbuild/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/sprite.o
+x/Users/jhuckaby/Projects/lbm2json/sprite.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/jhuckaby/Projects/lbm2json/sprite.cpp301165027#301165027#0(1323"/Users/jhuckaby/Projects/lbm2json/sprite.cpp: In member function 'Bitmap* Sprite::load_from_lbm(char*)':/Users/jhuckaby/Projects/lbm2json/sprite.cpp:147: warning: deprecated conversion from string constant to 'char*'/Users/jhuckaby/Projects/lbm2json/sprite.cpp:165: warning: format '%d' expects type 'int', but argument 6 has type 'long unsigned int'/Users/jhuckaby/Projects/lbm2json/sprite.cpp:167: warning: deprecated conversion from string constant to 'char*'/Users/jhuckaby/Projects/lbm2json/sprite.cpp:199: warning: deprecated conversion from string constant to 'char*'/Users/jhuckaby/Projects/lbm2json/sprite.cpp:221: warning: deprecated conversion from string constant to 'char*'/Users/jhuckaby/Projects/lbm2json/sprite.cpp:238: warning: deprecated conversion from string constant to 'char*'/Users/jhuckaby/Projects/lbm2json/sprite.cpp:240: warning: format '%d' expects type 'int', but argument 2 has type 'long unsigned int'/Users/jhuckaby/Projects/lbm2json/sprite.cpp:331: warning: format '%d' expects type 'int', but argument 2 has type 'long unsigned int'/Users/jhuckaby/Projects/lbm2json/sprite.cpp:332: warning: format '%d' expects type 'int', but argument 4 has type 'long unsigned int'/Users/jhuckaby/Projects/lbm2json/sprite.cpp:337: warning: deprecated conversion from string constant to 'char*'10(22@53"Deprecated conversion from string constant to 'char*'301165027#105#113#0(6@44"/Users/jhuckaby/Projects/lbm2json/sprite.cpp301165021#147#0#147#0#49"deprecated conversion from string constant to '*'0(22@75"Format '%d' expects type 'int', but argument 6 has type 'long unsigned int'301165027#218#135#0(6@44"/Users/jhuckaby/Projects/lbm2json/sprite.cpp301165021#165#0#165#0#56"format '*' expects type '*', but argument * has type '*'0(22@53"Deprecated conversion from string constant to 'char*'301165027#353#113#0(6@44"/Users/jhuckaby/Projects/lbm2json/sprite.cpp301165021#167#0#167#0#49"deprecated conversion from string constant to '*'0(22@53"Deprecated conversion from string constant to 'char*'301165027#466#113#0(6@44"/Users/jhuckaby/Projects/lbm2json/sprite.cpp301165021#199#0#199#0#49"deprecated conversion from string constant to '*'0(22@53"Deprecated conversion from string constant to 'char*'301165027#579#113#0(6@44"/Users/jhuckaby/Projects/lbm2json/sprite.cpp301165021#221#0#221#0#49"deprecated conversion from string constant to '*'0(22@53"Deprecated conversion from string constant to 'char*'301165027#692#113#0(6@44"/Users/jhuckaby/Projects/lbm2json/sprite.cpp301165021#238#0#238#0#49"deprecated conversion from string constant to '*'0(22@75"Format '%d' expects type 'int', but argument 2 has type 'long unsigned int'301165027#805#135#0(6@44"/Users/jhuckaby/Projects/lbm2json/sprite.cpp301165021#240#0#240#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 2 has type 'long unsigned int'301165027#940#135#0(6@44"/Users/jhuckaby/Projects/lbm2json/sprite.cpp301165021#331#0#331#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 4 has type 'long unsigned int'301165027#1075#135#0(6@44"/Users/jhuckaby/Projects/lbm2json/sprite.cpp301165021#332#0#332#0#56"format '*' expects type '*', but argument * has type '*'0(22@53"Deprecated conversion from string constant to 'char*'301165027#1210#113#0(6@44"/Users/jhuckaby/Projects/lbm2json/sprite.cpp301165021#337#0#337#0#49"deprecated conversion from string constant to '*'0(0#0#44"/Users/jhuckaby/Projects/lbm2json/sprite.cpp4300911832#1252"    cd /Users/jhuckaby/Projects/lbm2json    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-generated-files.hmap -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-own-target-headers.hmap -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-all-target-headers.hmap -iquote /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-project-headers.hmap -F/Users/jhuckaby/Projects/lbm2json/build/Debug -I/Users/jhuckaby/Projects/lbm2json/build/Debug/include -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/DerivedSources/i386 -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/DerivedSources -c /Users/jhuckaby/Projects/lbm2json/sprite.cpp -o /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/sprite.o0#
+
+CCompileC build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/bitmap.o /Users/jhuckaby/Projects/lbm2json/bitmap.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s301106369.606968
+e301106369.607890
+r1
+xCompileC
+xbuild/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/bitmap.o
+x/Users/jhuckaby/Projects/lbm2json/bitmap.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/jhuckaby/Projects/lbm2json/bitmap.cpp301106369#301106369#0(0"0(0#0#44"/Users/jhuckaby/Projects/lbm2json/bitmap.cpp4300911832#1258"    cd /Users/jhuckaby/Projects/lbm2json    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-generated-files.hmap -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-own-target-headers.hmap -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-all-target-headers.hmap -iquote /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-project-headers.hmap -F/Users/jhuckaby/Projects/lbm2json/build/Debug -I/Users/jhuckaby/Projects/lbm2json/build/Debug/include -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/DerivedSources/x86_64 -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/DerivedSources -c /Users/jhuckaby/Projects/lbm2json/bitmap.cpp -o /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/bitmap.o0#
+
+CCompileC build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/geometry.o /Users/jhuckaby/Projects/lbm2json/geometry.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s301106306.103758
+e301106306.207618
+r1
+xCompileC
+xbuild/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/geometry.o
+x/Users/jhuckaby/Projects/lbm2json/geometry.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/jhuckaby/Projects/lbm2json/geometry.cpp301106306#301106306#0(0"0(0#0#46"/Users/jhuckaby/Projects/lbm2json/geometry.cpp4300911832#1262"    cd /Users/jhuckaby/Projects/lbm2json    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-generated-files.hmap -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-own-target-headers.hmap -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-all-target-headers.hmap -iquote /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-project-headers.hmap -F/Users/jhuckaby/Projects/lbm2json/build/Debug -I/Users/jhuckaby/Projects/lbm2json/build/Debug/include -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/DerivedSources/x86_64 -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/DerivedSources -c /Users/jhuckaby/Projects/lbm2json/geometry.cpp -o /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/geometry.o0#
+
+CCompileC build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/main.o /Users/jhuckaby/Projects/lbm2json/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s301107661.498511
+e301107661.499658
+r1
+xCompileC
+xbuild/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/main.o
+x/Users/jhuckaby/Projects/lbm2json/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/jhuckaby/Projects/lbm2json/main.cpp301107661#301107661#0(563"/Users/jhuckaby/Projects/lbm2json/main.cpp: In function 'int main(int, char* const*)':/Users/jhuckaby/Projects/lbm2json/main.cpp:12: warning: format '%d' expects type 'int', but argument 2 has type 'long unsigned int'/Users/jhuckaby/Projects/lbm2json/main.cpp:15: warning: format '%d' expects type 'int', but argument 2 has type 'long unsigned int'/Users/jhuckaby/Projects/lbm2json/main.cpp:18: warning: format '%d' expects type 'int', but argument 2 has type 'long unsigned int'/Users/jhuckaby/Projects/lbm2json/main.cpp:9: warning: unused variable 'sprite'4(22@75"Format '%d' expects type 'int', but argument 2 has type 'long unsigned int'301107661#87#132#0(6@42"/Users/jhuckaby/Projects/lbm2json/main.cpp301107639#12#0#12#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 2 has type 'long unsigned int'301107661#219#132#0(6@42"/Users/jhuckaby/Projects/lbm2json/main.cpp301107639#15#0#15#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 2 has type 'long unsigned int'301107661#351#132#0(6@42"/Users/jhuckaby/Projects/lbm2json/main.cpp301107639#18#0#18#0#56"format '*' expects type '*', but argument * has type '*'0(22@24"Unused variable 'sprite'301107661#483#80#0(6@42"/Users/jhuckaby/Projects/lbm2json/main.cpp301107639#9#0#9#0#19"unused variable '*'0(0#0#42"/Users/jhuckaby/Projects/lbm2json/main.cpp4300911832#1254"    cd /Users/jhuckaby/Projects/lbm2json    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-generated-files.hmap -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-own-target-headers.hmap -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-all-target-headers.hmap -iquote /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-project-headers.hmap -F/Users/jhuckaby/Projects/lbm2json/build/Debug -I/Users/jhuckaby/Projects/lbm2json/build/Debug/include -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/DerivedSources/x86_64 -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/DerivedSources -c /Users/jhuckaby/Projects/lbm2json/main.cpp -o /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/palette.o /Users/jhuckaby/Projects/lbm2json/palette.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s301106328.669468
+e301106328.858898
+r1
+xCompileC
+xbuild/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/palette.o
+x/Users/jhuckaby/Projects/lbm2json/palette.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/jhuckaby/Projects/lbm2json/palette.cpp301106328#301106328#0(0"0(0#0#45"/Users/jhuckaby/Projects/lbm2json/palette.cpp4300911832#1260"    cd /Users/jhuckaby/Projects/lbm2json    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-generated-files.hmap -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-own-target-headers.hmap -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-all-target-headers.hmap -iquote /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-project-headers.hmap -F/Users/jhuckaby/Projects/lbm2json/build/Debug -I/Users/jhuckaby/Projects/lbm2json/build/Debug/include -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/DerivedSources/x86_64 -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/DerivedSources -c /Users/jhuckaby/Projects/lbm2json/palette.cpp -o /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/palette.o0#
+
+CCompileC build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/sprite.o /Users/jhuckaby/Projects/lbm2json/sprite.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s301107436.518432
+e301107436.519718
+r1
+xCompileC
+xbuild/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/sprite.o
+x/Users/jhuckaby/Projects/lbm2json/sprite.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/jhuckaby/Projects/lbm2json/sprite.cpp301107436#301107436#0(1053"/Users/jhuckaby/Projects/lbm2json/sprite.cpp: In member function 'Bitmap* Sprite::load_from_lbm(char*)':/Users/jhuckaby/Projects/lbm2json/sprite.cpp:147: warning: deprecated conversion from string constant to 'char*'/Users/jhuckaby/Projects/lbm2json/sprite.cpp:165: warning: format '%d' expects type 'int', but argument 6 has type 'long unsigned int'/Users/jhuckaby/Projects/lbm2json/sprite.cpp:167: warning: deprecated conversion from string constant to 'char*'/Users/jhuckaby/Projects/lbm2json/sprite.cpp:196: warning: deprecated conversion from string constant to 'char*'/Users/jhuckaby/Projects/lbm2json/sprite.cpp:218: warning: deprecated conversion from string constant to 'char*'/Users/jhuckaby/Projects/lbm2json/sprite.cpp:235: warning: deprecated conversion from string constant to 'char*'/Users/jhuckaby/Projects/lbm2json/sprite.cpp:237: warning: format '%d' expects type 'int', but argument 2 has type 'long unsigned int'/Users/jhuckaby/Projects/lbm2json/sprite.cpp:284: warning: deprecated conversion from string constant to 'char*'8(22@53"Deprecated conversion from string constant to 'char*'301107436#105#113#0(6@44"/Users/jhuckaby/Projects/lbm2json/sprite.cpp301107424#147#0#147#0#49"deprecated conversion from string constant to '*'0(22@75"Format '%d' expects type 'int', but argument 6 has type 'long unsigned int'301107436#218#135#0(6@44"/Users/jhuckaby/Projects/lbm2json/sprite.cpp301107424#165#0#165#0#56"format '*' expects type '*', but argument * has type '*'0(22@53"Deprecated conversion from string constant to 'char*'301107436#353#113#0(6@44"/Users/jhuckaby/Projects/lbm2json/sprite.cpp301107424#167#0#167#0#49"deprecated conversion from string constant to '*'0(22@53"Deprecated conversion from string constant to 'char*'301107436#466#113#0(6@44"/Users/jhuckaby/Projects/lbm2json/sprite.cpp301107424#196#0#196#0#49"deprecated conversion from string constant to '*'0(22@53"Deprecated conversion from string constant to 'char*'301107436#579#113#0(6@44"/Users/jhuckaby/Projects/lbm2json/sprite.cpp301107424#218#0#218#0#49"deprecated conversion from string constant to '*'0(22@53"Deprecated conversion from string constant to 'char*'301107436#692#113#0(6@44"/Users/jhuckaby/Projects/lbm2json/sprite.cpp301107424#235#0#235#0#49"deprecated conversion from string constant to '*'0(22@75"Format '%d' expects type 'int', but argument 2 has type 'long unsigned int'301107436#805#135#0(6@44"/Users/jhuckaby/Projects/lbm2json/sprite.cpp301107424#237#0#237#0#56"format '*' expects type '*', but argument * has type '*'0(22@53"Deprecated conversion from string constant to 'char*'301107436#940#113#0(6@44"/Users/jhuckaby/Projects/lbm2json/sprite.cpp301107424#284#0#284#0#49"deprecated conversion from string constant to '*'0(0#0#44"/Users/jhuckaby/Projects/lbm2json/sprite.cpp4300911832#1258"    cd /Users/jhuckaby/Projects/lbm2json    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-generated-files.hmap -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-own-target-headers.hmap -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-all-target-headers.hmap -iquote /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-project-headers.hmap -F/Users/jhuckaby/Projects/lbm2json/build/Debug -I/Users/jhuckaby/Projects/lbm2json/build/Debug/include -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/DerivedSources/x86_64 -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/DerivedSources -c /Users/jhuckaby/Projects/lbm2json/sprite.cpp -o /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/sprite.o0#
+
+CLd /Users/jhuckaby/Projects/lbm2json/build/Debug/lbm2json normal i386
+s301165027.448944
+e301165027.654496
+r1
+xLd
+x/Users/jhuckaby/Projects/lbm2json/build/Debug/lbm2json
+xnormal
+xi386
+lSLF07#2@59"Link /Users/jhuckaby/Projects/lbm2json/build/Debug/lbm2json301165027#301165027#0(0"0(0#0#0"4300911832#473"    cd /Users/jhuckaby/Projects/lbm2json    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/jhuckaby/Projects/lbm2json/build/Debug -F/Users/jhuckaby/Projects/lbm2json/build/Debug -filelist /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/lbm2json.LinkFileList -mmacosx-version-min=10.6 -o /Users/jhuckaby/Projects/lbm2json/build/Debug/lbm2json0#
+
+CLd /Users/jhuckaby/Projects/lbm2json/build/Debug/lbm2json normal x86_64
+s301107661.500043
+e301107661.523941
+r1
+xLd
+x/Users/jhuckaby/Projects/lbm2json/build/Debug/lbm2json
+xnormal
+xx86_64
+lSLF07#2@59"Link /Users/jhuckaby/Projects/lbm2json/build/Debug/lbm2json301107661#301107661#0(0"0(0#0#0"4300911832#477"    cd /Users/jhuckaby/Projects/lbm2json    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/jhuckaby/Projects/lbm2json/build/Debug -F/Users/jhuckaby/Projects/lbm2json/build/Debug -filelist /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/lbm2json.LinkFileList -mmacosx-version-min=10.6 -o /Users/jhuckaby/Projects/lbm2json/build/Debug/lbm2json0#
+

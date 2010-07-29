@@ -1,0 +1,59 @@
+Tlbm2json
+v7
+r0
+t301105476.811519
+cCheck dependencies
+cCompileC build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/main.o /Users/jhuckaby/Projects/lbm2json/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/jhuckaby/Projects/lbm2json/build/Debug/lbm2json normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Users/jhuckaby/Projects/lbm2json/build/Debug/lbm2json
+t1279412676
+s10560
+
+N/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/lbm2json.LinkFileList
+c000000004C4249C30000000000000069
+t1279412675
+s105
+
+N/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/main.o
+t1279412676
+s66968
+
+N/Users/jhuckaby/Projects/lbm2json/main.cpp
+c000000004C424974000000000000008F
+t1279412596
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301105475#301105475#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/main.o /Users/jhuckaby/Projects/lbm2json/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s301105475.708158
+e301105476.370138
+r1
+xCompileC
+xbuild/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/main.o
+x/Users/jhuckaby/Projects/lbm2json/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/jhuckaby/Projects/lbm2json/main.cpp301105475#301105476#0(0"0(0#0#42"/Users/jhuckaby/Projects/lbm2json/main.cpp7886488416478786560#1254"    cd /Users/jhuckaby/Projects/lbm2json    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-generated-files.hmap -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-own-target-headers.hmap -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-all-target-headers.hmap -iquote /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/lbm2json-project-headers.hmap -F/Users/jhuckaby/Projects/lbm2json/build/Debug -I/Users/jhuckaby/Projects/lbm2json/build/Debug/include -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/DerivedSources/x86_64 -I/Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/DerivedSources -c /Users/jhuckaby/Projects/lbm2json/main.cpp -o /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/jhuckaby/Projects/lbm2json/build/Debug/lbm2json normal x86_64
+s301105476.370248
+e301105476.811439
+r1
+xLd
+x/Users/jhuckaby/Projects/lbm2json/build/Debug/lbm2json
+xnormal
+xx86_64
+lSLF07#2@59"Link /Users/jhuckaby/Projects/lbm2json/build/Debug/lbm2json301105476#301105476#0(0"0(0#0#0"28429427921584240#477"    cd /Users/jhuckaby/Projects/lbm2json    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/jhuckaby/Projects/lbm2json/build/Debug -F/Users/jhuckaby/Projects/lbm2json/build/Debug -filelist /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/lbm2json.LinkFileList -mmacosx-version-min=10.6 -o /Users/jhuckaby/Projects/lbm2json/build/Debug/lbm2json0#
+

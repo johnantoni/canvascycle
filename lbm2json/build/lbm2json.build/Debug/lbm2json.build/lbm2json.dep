@@ -1,0 +1,11 @@
+00000000000000300000000000001430 9f667a72e9bb83d9ba8a5bfe6a06af19 ffffffffffffffffffffffffffffffff 13804 /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/geometry.o
+000000007050e33e000000000000070f 7299829529ea88310609a9b54956d379 ffffffffffffffffffffffffffffffff 10648 /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/bitmap.o
+000000003c13d1af0000000000002cd6 4c0882bbb350b215c0637837aa900643 ffffffffffffffffffffffffffffffff 20980 /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/sprite.o
+000000004ac32752000000000000265c fef728a4df4e0d56ff9fcf75fd535832 ffffffffffffffffffffffffffffffff 19008 /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/palette.o
+0000000076d0df3900000000000079ed a4785f8dff1c24aa2a1fd5afa7fd5152 ffffffffffffffffffffffffffffffff 53408 /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/i386/main.o
+fb780d75689af8f2a96090a6d36e13f5 683e62b204ef9b5ed7a59d71a9544c1d ffffffffffffffffffffffffffffffff 38944 /Users/jhuckaby/Projects/lbm2json/build/Debug/lbm2json
+0000000076d197c300000000000070f9 2b7740cfe8c47a31b305a5589252a08a ffffffffffffffffffffffffffffffff 50564 /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/main.o
+00000000000000300000000000001430 f813fa634dced7a753caf63b251b97fd ffffffffffffffffffffffffffffffff 17216 /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/geometry.o
+000000007050e33e000000000000070f ec1f68f5ea6e9a78177facc9b076f547 ffffffffffffffffffffffffffffffff 11948 /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/bitmap.o
+000000003c12b292000000000000163c 71c3e5a9132a5f7729b2ed8443090760 ffffffffffffffffffffffffffffffff 23112 /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/sprite.o
+000000004ac32752000000000000265c f7418c2826d9ebc6a8e2885749d51d2d ffffffffffffffffffffffffffffffff 22484 /Users/jhuckaby/Projects/lbm2json/build/lbm2json.build/Debug/lbm2json.build/Objects-normal/x86_64/palette.o
